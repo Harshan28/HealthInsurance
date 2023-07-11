@@ -1,0 +1,32 @@
+body{
+    background-image:url("https://img.freepik.com/free-photo/top-view-health-insurance-form-eyeglasses-with-stethoscope-wooden-background-business-healthcare-concept-savings-flat-lay-copy-space_1921-31.jpg?w=1060&t=st=1689065050~exp=1689065650~hmac=a55a346af916c66471a355d5a098225b5211f6cf005ef3c9531763f34a7251fb") ;
+    background-repeat: no-repeat;
+    /* height: 5vh; */
+    background-size: cover; 
+    
+}
+.signinfo
+{
+    width: 300px;
+    height: 75vh;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 20px;
+    margin-left: 500px;
+    margin-top: 65px;
+    background-color: #C2B280;
+    opacity: 0.9;
+    background-image:url("https://img.freepik.com/free-photo/top-view-health-insurance-form-eyeglasses-with-stethoscope-wooden-background-business-healthcare-concept-savings-flat-lay-copy-space_1921-31.jpg?w=1060&t=st=1689065050~exp=1689065650~hmac=a55a346af916c66471a355d5a098225b5211f6cf005ef3c9531763f34a7251fb") ;
+    /* border: solid rgb(1, 11, 12) 5px; */
+    
+}
+.reg
+{
+    padding-left: 8px;
+    margin-left: 15px;
+}
+.box
+{
+    position: absolute;
+    margin-left: 500px;
+}
